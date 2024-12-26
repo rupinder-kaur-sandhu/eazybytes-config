@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Hey, welcome to EazyBank cards related webhook APIs"
+  message: "Hey, welcome to EazyBank cards related webhook check again APIs"
   contactDetails:
     name: "Sandra Harald - Product Owner"
     email: "{cipher}7ac3c9e02d443135880d60d1505a068e65ae700dc05d25ac8da4832efd69f4a04cf6721ec064e7ebf496b5a413dcba5e"
